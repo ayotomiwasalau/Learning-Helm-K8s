@@ -7,7 +7,7 @@ A good starting point to showcase the parts of a chart and we build a basic stat
 ```shell
 helm create flaskapp
 ```
-
+```txt
 Output:
 📦flaskapp
  ┣ 📂charts
@@ -24,6 +24,7 @@ Output:
  ┣ 📜.helmignore
  ┣ 📜Chart.yaml
  ┗ 📜values.yaml
+ ```
 
 
 - The Chart.yaml file contains metadata and some functionality controls for the chart.
